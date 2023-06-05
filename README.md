@@ -1,5 +1,5 @@
 # M365_Defender_Add_Bulk_IOCs
-How to bulk add IOCs to Defender?
+How to add bulk IOCs to Defender?
 
 Step 1 - First of all create an application from Azure. And give that Microsoft Graph Permission - ThreatIndicators.ReadWrite.OwnedBy
 
@@ -20,7 +20,8 @@ You can easily change the method of IOC list to get IOC from URL and submit them
 
 PoC;
 I downloaded and IOC list from Alienvault that contains malicious Dropbox URLs. (Pulse:https://otx.alienvault.com/pulse/617b082446ce0ac85e507129)
-![image](https://github.com/t0neex/M365_Defender_Add_Bulk_IOCs/assets/100233276/51db3ae4-6737-4754-8ff0-db347992612a)
+![image](https://github.com/t0neex/M365_Defender_Add_Bulk_IOCs/assets/100233276/e65d45e7-33f3-491b-aff5-12c22e9e1148)
+
 
 Then I move that file to my Python project folder and give it a name. And I change the file name on python project too then i run it.
 
