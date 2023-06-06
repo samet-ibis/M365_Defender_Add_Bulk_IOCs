@@ -31,3 +31,7 @@ All done! All indicators submitted to my defender indicators list :)
 
 ![image](https://github.com/t0neex/M365_Defender_Add_Bulk_IOCs/assets/100233276/18e13230-66f3-466d-b972-5fff860f212f)
 
+
+API Reference;
+https://learn.microsoft.com/en-us/graph/api/resources/tiindicator?view=graph-rest-beta
+
